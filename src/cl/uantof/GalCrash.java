@@ -1,19 +1,16 @@
 package cl.uantof;
 
-import org.w3c.dom.Text;
+import cl.uantof.GraphCanvas;
+import cl.uantof.GalImage;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.applet.Applet;
 import java.awt.*;
 import javax.swing.JSlider;
-import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.event.*;
 import java.io.File;
-import java.io.InputStream;
-import java.net.MalformedURLException;
-import java.net.URL;
 
 public class GalCrash extends Applet {
 

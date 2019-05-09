@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GalCrashRemake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GalCrashRemake_jar</output-path>
+    <root id="archive" name="GalCrashRemake.jar">
+      <element id="module-output" name="GalCrashRemake" />
+    </root>
+  </artifact>
+</component>
